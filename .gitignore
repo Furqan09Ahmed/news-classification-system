@@ -1,0 +1,27 @@
+# Environments
+venv/
+env/
+.env
+
+# Python internals
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Data - Ignore everything, but keep the folder structure
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Models
+# models/*.pkl
+# models/*.h5  
+
+# Streamlit
+.streamlit/config.toml

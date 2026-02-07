@@ -85,7 +85,7 @@ Models were evaluated using standard classification metrics:
 
 ## 🌐 Live Demo
 
-🔗 **Live Application:** Deployment in progress (cloud-hosted Streamlit app)
+🔗 **Live Application:** https://huggingface.co/spaces/Furqan09Ahmed/news-document-classifier
 
 The application allows users to input a news headline or article snippet and instantly
 predict its category using either a machine learning or deep learning model.
